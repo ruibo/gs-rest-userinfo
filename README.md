@@ -51,7 +51,7 @@ After the resource is created, the service will handle `GET` request for `/users
 
 The service will handle `PUT` request for `/users/{username}` where `{username}` is the name of the user. If the resource already exists, then it will be updated. Otherwise, a new user will be created and the resource will be available.
 
-Note that PUT replaces the entire resource. Fields not supplied will be replaced with null. 
+Note that `PUT` replaces the entire resource. Fields not supplied will be replaced with `null`. 
 
 ### Change password
 
