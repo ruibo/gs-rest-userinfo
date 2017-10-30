@@ -1,4 +1,4 @@
-This guide walks you through the process of building a RESTful service with [Spring Boot]( https://projects.spring.io/spring-boot/).
+This is an example RESTful service built with [Spring Boot]( https://projects.spring.io/spring-boot/).
 
 ## Goal
 
